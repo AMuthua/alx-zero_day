@@ -1,2 +1,2 @@
 This is actually my second commit. 
-Updated from Github insterface
+Updated from Github interface
